@@ -32,11 +32,7 @@ Application allowing facial recognition and analysis by recognition of one or mo
 
 **Scanning Frequency :** Then you must choose the analysis frequency, this will allow the algorithm, depending on this frequency, to analyze to see if it's still the same face that it recognizes, if the face is still the same then it continues facial detection and if not then the algorithm returns to continuous analysis and as long as the algorithm hasn't recognized a face it will remain waiting while continuously analyzing
 
-## Agnitium Logo
-
-![Interface Logo](ressources/logo_agnitium.png)
 
 ## Author
 
 - [@nixiz0](https://github.com/nixiz0)
-
