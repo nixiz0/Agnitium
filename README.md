@@ -13,6 +13,10 @@ Application allowing facial recognition and analysis by recognition of one or mo
 
 ## Installation
 
+The fastest way is to clone the repository and click on the **'start-app.bat'** and the application will **launch automatically**.
+
+If you want to run the code from your code environment, do this :
+
 => You need to install **Python 3.11**
 
 1-/ Clone this repository ```git clone https://github.com/nixiz0/DrawItium.git```
@@ -24,6 +28,8 @@ Application allowing facial recognition and analysis by recognition of one or mo
 4-/ Download required libraries ```pip install -r requirements.txt```
 
 5- Run the menu.py ```python menu_app.py```
+
+
 ## Recognition Learning Guide
 **Insert Faces :** You need to put your images in the folder called **faces**, you simply put your images in either the PNG or JPG format that you want the model to learn, knowing that the name of your images will be the name that the algorithm will use when detects one or more faces learned
 
