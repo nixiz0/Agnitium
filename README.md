@@ -1,7 +1,8 @@
-
 # Agnitium
 
 Application allowing facial recognition and analysis by recognition of one or more faces that the algorithm can recognize by learning.
+
+
 ## Tech Stack
 
 **AI Recognition:** mediapipe, face_recognition
@@ -31,8 +32,8 @@ If you want to run the code from your code environment, do this :
 
 
 ## Recognition Learning Guide
-**Insert Faces :** You need to put your images in the folder called **faces**, you simply put your images in either the PNG or JPG format that you want the model to learn, knowing that the name of your images will be the name that the algorithm will use when detects one or more faces learned
 
+**Insert Faces :** You need to put your images in the folder called faces, you simply **click the 'Add Faces' button** and choose your images in **PNG or JPG** format that you want the model to learn, knowing that the name of your images will be the name that the algorithm will use when detecting one or several faces learned.
 
 **Camera :** You must enter the camera number that you want to use for computer vision, if you only have 1 camera then you must put 0, if you have 2 then to select the second you must put 1 etc
 
