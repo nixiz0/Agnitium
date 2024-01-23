@@ -14,9 +14,9 @@ Application allowing facial recognition and analysis by recognition of one or mo
 
 ## Installation
 
-The fastest way is to clone the repository and click on the **'start-app.bat'** and the application will **launch automatically** (if you have beforehand creating your .env and download the requirements.txt in your activate environment).
+The fastest way is to clone the repository and click on the **'start-app.bat'** and the application will **launch andd make the installation automatically**.
 
-If you want to run the code from your code environment, do this :
+But if you want to run the code from your code environment, do this :
 
 => You need to install **Python 3.11**
 
