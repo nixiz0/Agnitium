@@ -2,3 +2,4 @@ __pycache__
 .env
 /faces/*
 !/faces/example face.png
+build
